@@ -1,3 +1,11 @@
+# React/WASM audio rendering application
+
+This is a small react application that amplifies simple audio sound waves using WebAssembly.
+
+![Web browser screenshot](browser-screenshot.png)
+
+Here is an [article]() that walks through the steps of building this app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
