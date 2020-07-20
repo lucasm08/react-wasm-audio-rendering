@@ -1,0 +1,15 @@
+{
+  "name": "audio-wasm-library",
+  "collaborators": [
+    "lucasm08 <gompou16@univmetiers.ci>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "audio_wasm_library_bg.wasm",
+    "audio_wasm_library.js",
+    "audio_wasm_library.d.ts"
+  ],
+  "module": "audio_wasm_library.js",
+  "types": "audio_wasm_library.d.ts",
+  "sideEffects": false
+}
